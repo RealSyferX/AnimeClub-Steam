@@ -1,14 +1,17 @@
 # AnimeClub-UwU-OniChan
 A tool for Steam Game/DLC Unlocker
 
-First time?
-```
+## First time?
+
 1. Run as Administrator AnimeClub.exe
 2. Click Patch Steam.
-3. https://steamdb.info/ Find your fav game and copy appids and paste to AnimeClub
-4. Click Get App
-5. It will automatically restart the steam.
-6. Once Steam Launched, Click Install Button.
+3. [Find your favorite game on SteamDB](https://steamdb.info/) and copy the app IDs, then paste them into AnimeClub.
+4. Click Get App.
+5. It will automatically restart Steam.
+6. Once Steam is launched, click the Install button.
 7. Enjoy.
 
-```
+## Still Confused?
+Here’s a video tutorial:
+
+[![AnimeClub Tutorial](https://img.youtube.com/vi/jzVQs11EgZw/0.jpg)](https://www.youtube.com/watch?v=jzVQs11EgZw)
