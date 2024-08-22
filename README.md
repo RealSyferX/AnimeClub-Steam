@@ -1,4 +1,4 @@
-# AnimeClub-UwU-OniChan
+# AnimeClub-Steam
 A tool for Steam Game/DLC Unlocker
 
 ## First time?
