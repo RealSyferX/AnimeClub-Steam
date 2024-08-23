@@ -19,4 +19,7 @@ Here’s a video tutorial:
 
 ## Error??
 [steam_api64.dll](https://raw.githubusercontent.com/RealSyferX/AnimeClub-Steam/main/steamapi.zip)
+
 https://github.com/atom0s/Steamless
+
+[![SteamAnime Tutorial](https://img.youtube.com/vi/I_gpvyR7CLA/0.jpg)](https://www.youtube.com/watch?v=I_gpvyR7CLA)
