@@ -15,3 +15,8 @@ A tool for Steam Game/DLC Unlocker
 Here’s a video tutorial:
 
 [![AnimeClub Tutorial](https://img.youtube.com/vi/jzVQs11EgZw/0.jpg)](https://www.youtube.com/watch?v=jzVQs11EgZw)
+
+
+## Error??
+steam_api64.dll
+https://github.com/atom0s/Steamless
