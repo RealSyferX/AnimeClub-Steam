@@ -14,12 +14,16 @@ A tool for Steam Game/DLC Unlocker
 ## Still Confused?
 Here’s a video tutorial:
 
-[![AnimeClub Tutorial](https://img.youtube.com/vi/jzVQs11EgZw/0.jpg)](https://www.youtube.com/watch?v=jzVQs11EgZw)
+[Video Link](https://youtu.be/T7MubzYmckw)
+
+[![AnimeClub Tutorial](https://img.youtube.com/vi/T7MubzYmckw/0.jpg)](https://youtu.be/T7MubzYmckw)
 
 
 ## Error??
 [steam_api64.dll](https://raw.githubusercontent.com/RealSyferX/AnimeClub-Steam/main/steamapi.zip)
 
 https://github.com/atom0s/Steamless
+
+[Video Link](https://www.youtube.com/watch?v=I_gpvyR7CLA)
 
 [![SteamAnime Tutorial](https://img.youtube.com/vi/I_gpvyR7CLA/0.jpg)](https://www.youtube.com/watch?v=I_gpvyR7CLA)
