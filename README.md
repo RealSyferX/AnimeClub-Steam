@@ -2,7 +2,7 @@
 A tool for Steam Game/DLC Unlocker
 
 ## First time?
-
+0. Download the lastest [AnimeClub ](https://github.com/RealSyferX/AnimeClub-Steam/releases)
 1. Run as Administrator AnimeClub.exe
 2. Click Patch Steam.
 3. [Find your favorite game on SteamDB](https://steamdb.info/) and copy the app IDs, then paste them into AnimeClub.
