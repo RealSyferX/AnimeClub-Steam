@@ -1,6 +1,9 @@
 # AnimeClub-Steam
 A tool for Steam Game/DLC Unlocker
 
+Keep in mind that these do not provide a DLC unlocker at this time.
+(In Development)
+
 ## First time?
 0. Download the lastest [AnimeClub ](https://github.com/RealSyferX/AnimeClub-Steam/releases)
 1. Run as Administrator AnimeClub.exe
