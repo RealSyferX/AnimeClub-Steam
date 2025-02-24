@@ -1,3 +1,8 @@
+# DISCONTINUED DUE TO LACK OF MOTIVATION
+I will Update once I'm Free
+
+
+
 # AnimeClub-Steam
 A tool for Steam Game/DLC Unlocker
 
